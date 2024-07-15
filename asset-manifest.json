@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/lv-editts/static/css/main.1c880e09.chunk.css",
+    "main.js": "/lv-editts/static/js/main.68096093.chunk.js",
+    "main.js.map": "/lv-editts/static/js/main.68096093.chunk.js.map",
+    "runtime~main.js": "/lv-editts/static/js/runtime~main.da02d4c8.js",
+    "runtime~main.js.map": "/lv-editts/static/js/runtime~main.da02d4c8.js.map",
+    "static/js/2.2af61a2d.chunk.js": "/lv-editts/static/js/2.2af61a2d.chunk.js",
+    "static/js/2.2af61a2d.chunk.js.map": "/lv-editts/static/js/2.2af61a2d.chunk.js.map",
+    "index.html": "/lv-editts/index.html",
+    "precache-manifest.9bd392606e659024b306c2b65ec9efb8.js": "/lv-editts/precache-manifest.9bd392606e659024b306c2b65ec9efb8.js",
+    "service-worker.js": "/lv-editts/service-worker.js",
+    "static/css/main.1c880e09.chunk.css.map": "/lv-editts/static/css/main.1c880e09.chunk.css.map",
+    "static/media/9ee0ed3fd1380ccd7ded429b56c1d8b3.jpg": "/lv-editts/static/media/9ee0ed3fd1380ccd7ded429b56c1d8b3.b5741ab9.jpg",
+    "static/media/logo.png": "/lv-editts/static/media/logo.9e3a06ae.png",
+    "static/media/v.mp4": "/lv-editts/static/media/v.c3fc7581.mp4"
+  }
+}
