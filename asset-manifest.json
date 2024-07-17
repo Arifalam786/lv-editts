@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/lv-editts/static/css/main.e285e021.chunk.css",
-    "main.js": "/lv-editts/static/js/main.b4183fc0.chunk.js",
-    "main.js.map": "/lv-editts/static/js/main.b4183fc0.chunk.js.map",
+    "main.css": "/lv-editts/static/css/main.c7240a92.chunk.css",
+    "main.js": "/lv-editts/static/js/main.f9426350.chunk.js",
+    "main.js.map": "/lv-editts/static/js/main.f9426350.chunk.js.map",
     "runtime~main.js": "/lv-editts/static/js/runtime~main.da02d4c8.js",
     "runtime~main.js.map": "/lv-editts/static/js/runtime~main.da02d4c8.js.map",
-    "static/js/2.8f56b018.chunk.js": "/lv-editts/static/js/2.8f56b018.chunk.js",
-    "static/js/2.8f56b018.chunk.js.map": "/lv-editts/static/js/2.8f56b018.chunk.js.map",
+    "static/js/2.d636b6e8.chunk.js": "/lv-editts/static/js/2.d636b6e8.chunk.js",
+    "static/js/2.d636b6e8.chunk.js.map": "/lv-editts/static/js/2.d636b6e8.chunk.js.map",
     "index.html": "/lv-editts/index.html",
-    "precache-manifest.44c7e8cc0184ff152445424247423f3b.js": "/lv-editts/precache-manifest.44c7e8cc0184ff152445424247423f3b.js",
+    "precache-manifest.d3c153b0dc3de37fb8e42c29e426cfb0.js": "/lv-editts/precache-manifest.d3c153b0dc3de37fb8e42c29e426cfb0.js",
     "service-worker.js": "/lv-editts/service-worker.js",
-    "static/css/main.e285e021.chunk.css.map": "/lv-editts/static/css/main.e285e021.chunk.css.map",
+    "static/css/main.c7240a92.chunk.css.map": "/lv-editts/static/css/main.c7240a92.chunk.css.map",
     "static/media/logo.png": "/lv-editts/static/media/logo.9e3a06ae.png",
     "static/media/photo1.jpg": "/lv-editts/static/media/photo1.130d5ece.jpg",
     "static/media/photo2.jpg": "/lv-editts/static/media/photo2.acc78020.jpg",
+    "static/media/photo3.jpg": "/lv-editts/static/media/photo3.85a13185.jpg",
+    "static/media/photo4.jpg": "/lv-editts/static/media/photo4.0e3a17f3.jpg",
     "static/media/v.mp4": "/lv-editts/static/media/v.c3fc7581.mp4"
   }
 }
